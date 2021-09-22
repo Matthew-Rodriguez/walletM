@@ -12,7 +12,7 @@ body{
 }
 
 .app-sidebar .app-sidebar__inner {
-    background-color: rgb(27, 16, 46);
+    background-color: rgb(27, 16, 46) !important;
 }
 
 .app-theme-white .app-page-title {
