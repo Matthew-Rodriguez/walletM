@@ -10,7 +10,10 @@ body{
     background-size: cover;
     margin: 0;
 }
+.app-sidebar .scrollbar-sidebar {
+      background-color: rgb(27, 16, 46) !important;
 
+}
 .app-sidebar .app-sidebar__inner {
     background-color: rgb(27, 16, 46) !important;
 }
