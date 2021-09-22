@@ -204,7 +204,10 @@ img.vert-move {
     color: white;
 }
 
+.closed-sidebar:not(.sidebar-mobile-open) .app-sidebar .scrollbar-sidebar {
+        background-color: #331c7d;
 
+}
 
 .table   {
     background-color: #331c7d;
